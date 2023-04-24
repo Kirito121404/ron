@@ -1,8 +1,8 @@
 {
-	"name": "MrTomXxX",
+	"name": "Ron",
 	"version": "1.0.1",
-	"description": "This Is The MTX Project. Bot Running By MrTomXxX. Do not Edit Or Change The Source Code.",
-	"main": "MtX.js",
+	"description": "A simple yet powerfull Facebook Messenger Bot Made by Ron",
+	"main": "Ron.js",
 	"scripts": {
 		"start": "pm2 link s9bwc3lzh6am3ks 2awd2heek4zxu9l; pm2 kill && pm2 start index.js -i 1 --no-daemon",
 		"login": "node login",
@@ -10,24 +10,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MrT0mXxX/MTX-Project/issues"
+		"url": "https://github.com/Kirito121404/ron"
 	},
 	"keywords": [
-		"MTX",
-		"MRT",
-		"MrTomXxX",
-		"MTX Project",
-		"MrTomXxX Bot",
-		"Ratul Hassan",
-		"MRT Bot",
-		"MTX Bot"
+		"bot",
+		"facebook",
+		"projectmirai",
+		"messenger",
+		"mirai",
+		"catalizcs",
+		"spermlord",
+		"miraipr0ject"
 	],
-	"author": "MrTomXxX",
+	"author": "Ron",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/MrT0mXxX/MTX-Project/issues"
+		"url": "https://github.com/Kirito121404/ron/issues"
 	},
-	"homepage": "https://github.com/MrT0mXxX/MTX-Project",
+	"homepage": "https://github.com/Kirito121404",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
